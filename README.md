@@ -52,7 +52,7 @@ This project uses applicant data such as income, credit history, and demographic
 
 ## 📁 Project Structure
 
-
+'''
 Loan-Status-Prediction/
 │
 ├── data/
@@ -63,7 +63,7 @@ Loan-Status-Prediction/
 │
 ├── README.md
 
-
+'''
 
 
 ## 📌 Key Learnings
