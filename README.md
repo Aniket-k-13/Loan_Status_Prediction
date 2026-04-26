@@ -50,22 +50,6 @@ This project uses applicant data such as income, credit history, and demographic
 
 
 
-## 📁 Project Structure
-
-'''
-Loan-Status-Prediction/
-│
-├── data/
-│ ├── train.csv
-│
-├── notebook/
-│ └── loan_status_prediction.ipynb
-│
-├── README.md
-
-'''
-
-
 ## 📌 Key Learnings
 
 - Handling structured real-world datasets  
