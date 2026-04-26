@@ -48,7 +48,7 @@ This project uses applicant data such as income, credit history, and demographic
 - Problem Type: Binary Classification  
 - Evaluation Metric: Accuracy Score  
 
----
+
 
 ## 📁 Project Structure
 
@@ -64,7 +64,7 @@ Loan-Status-Prediction/
 ├── README.md
 
 
----
+
 
 ## 📌 Key Learnings
 
