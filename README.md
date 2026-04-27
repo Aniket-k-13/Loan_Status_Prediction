@@ -48,8 +48,6 @@ This project uses applicant data such as income, credit history, and demographic
 - Problem Type: Binary Classification  
 - Evaluation Metric: Accuracy Score  
 
-
-
 ## 📌 Key Learnings
 
 - Handling structured real-world datasets  
